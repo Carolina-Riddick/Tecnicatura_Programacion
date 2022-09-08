@@ -1,4 +1,4 @@
-# Tecnicatura_Programacion
+# tecnicatura-programacion
 
 Mi primer repositorio en Git Hub
 
