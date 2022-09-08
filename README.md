@@ -2,4 +2,4 @@
 
 Mi primer repositorio en Git Hub
 
-I love 🎼 🛫 🐱
+I love 🎼 🐱 ☕
