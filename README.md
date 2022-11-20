@@ -1,5 +1,3 @@
 # tecnicatura-programacion
 
-Mi primer repositorio en Git Hub
-
-I love 🎼 🐱 ☕
+# Asociate degree in Programming at National University of Technology
